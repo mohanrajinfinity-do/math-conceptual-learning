@@ -1,29 +1,52 @@
 # Math Conceptual Learning
 
-Open educational resources for identifying and improving mathematical misconceptions in school students.
+Open educational resources for identifying and improving mathematical misconceptions in school mathematics.
 
 ## About the Project
 
-Math Conceptual Learning is an educational project developed from real classroom experience.
+Math Conceptual Learning is a teacher-led open educational project developed from real classroom experience.
 
-Many students can follow a mathematical procedure without fully understanding the concept behind it. When these misconceptions are not identified early, they can affect learning in higher grades.
+Many students can follow a mathematical procedure without fully understanding the concept behind it. When these misconceptions are not identified and addressed, they can affect learning in later grades.
 
-This project aims to create simple, practical resources that help teachers:
+This project focuses on understanding how students think, identifying common misconceptions, and providing practical strategies to improve conceptual understanding.
 
-- Identify common mathematical misconceptions
-- Understand why students make particular errors
-- Provide targeted remediation
-- Improve conceptual understanding
-- Give students meaningful practice
-- Build confidence in mathematics
+## Project Approach
+
+The project follows a simple cycle:
+
+**Identify → Diagnose → Explain → Remediate → Reassess**
+
+### 1. Identify
+
+Find common misconceptions that students may have about a mathematical concept.
+
+### 2. Diagnose
+
+Use carefully designed questions and student explanations to understand the student's thinking.
+
+### 3. Explain
+
+Provide simple conceptual explanations using examples, visual models, number lines, and real-life connections.
+
+### 4. Remediate
+
+Use targeted activities to address the specific misconception.
+
+### 5. Reassess
+
+Use a similar but different problem to check whether conceptual understanding has improved.
 
 ## Target Students
 
-The initial focus is on school students from Classes 6–10.
+The initial focus is on school mathematics for students in:
+
+- Classes 6–10
+- Middle school
+- Secondary school
 
 ## Initial Topics
 
-The project will begin with topics where students commonly develop misconceptions, including:
+The project will gradually cover topics such as:
 
 - Rational Numbers
 - Integers
@@ -35,30 +58,44 @@ The project will begin with topics where students commonly develop misconception
 - Exponents
 - Coordinate Geometry
 
-## How It Works
+## Resources
 
-Each topic will include:
+### Rational Numbers
 
-1. Common misconception
-2. Why students may think this way
-3. Diagnostic questions
-4. Concept explanation
-5. Remedial activities
-6. Practice questions
-7. Reflection or assessment
+- [Common Misconceptions](resources/rational-numbers/misconceptions.md)
+- [Diagnostic Assessment](assessments/rational-numbers-diagnostic.md)
+- [Remediation Strategies](remediation/rational-numbers-strategies.md)
 
-## Why This Project?
+More resources will be added as the project develops.
 
-The project is based on practical classroom experience. The aim is not simply to provide more questions, but to understand student thinking and address the underlying misconception.
+## For Teachers
+
+The resources are designed to help teachers look beyond whether an answer is right or wrong.
+
+A student's explanation can provide valuable information about how they understand a concept.
+
+The project encourages teachers to ask questions such as:
+
+- How did you get your answer?
+- Why do you think this is correct?
+- Can you show it using a diagram?
+- Can you explain it another way?
+- Where would this number be on a number line?
 
 ## Project Status
 
-This project is currently in the early development stage. Resources will be added, tested, improved, and documented over time.
+This project is currently in the early development stage.
+
+Resources are being developed, tested through classroom experience, and improved over time.
+
+The long-term goal is to create a useful collection of openly available mathematics resources for teachers and students.
 
 ## Contributing
 
-Teachers, educators, students, and mathematics enthusiasts are welcome to suggest improvements, identify useful resources, or contribute ideas.
+Teachers, educators, mathematics students, and anyone interested in mathematics education are welcome to contribute ideas, suggestions, corrections, and resources.
 
 ## License
 
-This project is intended to be openly available for educational use.
+This project is released under the license included in this repository.
+
+Please check the LICENSE file for the complete terms.
