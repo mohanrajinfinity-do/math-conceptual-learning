@@ -1,0 +1,31 @@
+## How to Use This Project
+
+Teachers can use the project through the following cycle:
+
+**Identify → Diagnose → Explain → Remediate → Reassess → Reflect**
+
+Start with the relevant misconception resource, use the diagnostic questions to understand student thinking, apply a suitable remediation strategy, and then reassess the student's understanding.
+
+See the [Teacher Workflow](guides/teacher-workflow.md) for a detailed guide.
+
+## Resources
+
+### Rational Numbers
+
+- [Common Misconceptions](resources/rational-numbers/misconceptions.md)
+- [Diagnostic Assessment](assessments/rational-numbers-diagnostic.md)
+- [Remediation Strategies](remediation/rational-numbers-strategies.md)
+
+### Integers
+
+- [Common Misconceptions](resources/integers/misconceptions.md)
+
+### Fractions
+
+- [Common Misconceptions](resources/fractions/misconceptions.md)
+
+### Templates
+
+- [Teacher Observation Template](templates/teacher-observation-template.md)
+
+More resources will be added as the project develops.
